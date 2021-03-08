@@ -1,0 +1,14 @@
+{
+  "name": "advertisement-channel-bot",
+  "version": "1.0.0",
+  "description": "Deletes messages if they do not contain an image or link",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hatchibombotar",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
